@@ -1,0 +1,23 @@
+aula1/Aula.java
+ aula1.Aula
+aula1/ComposicaoDeFuncao.java
+ aula1.ComposicaoDeFuncao
+aula1/Funcional.java
+ aula1.Funcional
+aula1/FuncoesPuras.java
+ aula1.FuncoesPuras
+aula1/Imutabilidade.java
+ aula1.Imutabilidade
+aula1/FuncaoComClasseAnonima.java
+ aula1.FuncaoComClasseAnonima
+ aula1.FuncaoComClasseAnonima$1
+aula1/Funcao.java
+ aula1.Funcao
+aula1/FuncaoComLamda.java
+ aula1.FuncaoComLamda
+aula1/recursividade/FatorialRecursivo.java
+ aula1.recursividade.FatorialRecursivo
+aula1/recursividade/FatorialTailCall.java
+ aula1.recursividade.FatorialTailCall
+aula1/recursividade/FatorialMemorization.java
+ aula1.recursividade.FatorialMemorization

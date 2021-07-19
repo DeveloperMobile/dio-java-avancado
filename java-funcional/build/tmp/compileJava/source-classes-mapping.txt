@@ -21,9 +21,8 @@ aula1/recursividade/FatorialTailCall.java
  aula1.recursividade.FatorialTailCall
 aula1/recursividade/FatorialMemorization.java
  aula1.recursividade.FatorialMemorization
-aula2/FuncaoAltaOrdem.java
- aula2.Calculo
- aula2.FuncaoAltaOrdem
+aula2/Iteracao.java
+ aula2.Iteracao
 aula2/Consumidores.java
  aula2.Consumidores
 aula2/Funcoes.java
@@ -33,5 +32,21 @@ aula2/Predicados.java
 aula2/Supridores.java
  aula2.Pessoa
  aula2.Supridores
-aula2/Iteracao.java
- aula2.Iteracao
+aula2/FuncaoAltaOrdem.java
+ aula2.Calculo
+ aula2.FuncaoAltaOrdem
+aula3/ThreadsExemplo.java
+ aula3.BarraDoCarregamento
+ aula3.BarrraDoCarregamento2
+ aula3.BarrraDoCarregamento3
+ aula3.BarrraDoCarregamento4
+ aula3.GeradorPDF
+ aula3.ThreadsExemplo
+aula3/ParallelStreamExemplo.java
+ aula3.ParallelStreamExemplo
+aula3/FutureExemplo.java
+ aula3.Atividade
+ aula3.Casa
+ aula3.Comodo
+ aula3.FutureExemplo
+ aula3.Quarto

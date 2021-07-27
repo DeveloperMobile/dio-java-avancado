@@ -50,3 +50,5 @@ aula3/FutureExemplo.java
  aula3.Comodo
  aula3.FutureExemplo
  aula3.Quarto
+aula5/InferenciaExemplo.java
+ aula5.InferenciaExemplo

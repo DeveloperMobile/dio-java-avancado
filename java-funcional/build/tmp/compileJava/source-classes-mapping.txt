@@ -52,3 +52,16 @@ aula3/FutureExemplo.java
  aula3.Quarto
 aula5/InferenciaExemplo.java
  aula5.InferenciaExemplo
+aula6/ClientHttpExemplo.java
+ aula6.ClientHttpExemplo
+ aula6.ClientHttpExemplo$1
+aula6/InferenciaLambda.java
+ aula6.InferenciaLambda
+aula6/StringBlankExemplo.java
+ aula6.StringBlankExemplo
+aula6/StringLinesExemplo.java
+ aula6.StringLinesExemplo
+aula6/StringRepeat.java
+ aula6.StringRepeat
+aula6/CollectionExemplo.java
+ aula6.CollectionExemplo
